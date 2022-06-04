@@ -1,7 +1,8 @@
 Ballansir Task02 freeRTOS 50% time all task
 
-Терминальный task-manager
+РўРµСЂРјРёРЅР°Р»СЊРЅС‹Р№ task-manager
 
-см скриншеты в каталоге /reamrks/*.png
+РџРёС€РёС‚Рµ РІРѕРїСЂРѕСЃС‹ РЅР° netdm(at)mail_ru
 
-Вопросы пишите на netdm(at)mail_ru
+![РёР·РѕР±СЂР°Р¶РµРЅРёРµ](https://user-images.githubusercontent.com/36101745/172018850-8100f4fc-3db8-4ea8-b4c3-b235d8b46633.png)
+
